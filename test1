@@ -24,3 +24,4 @@ DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 SSH_TTY=/dev/pts/0
 _=/usr/bin/env
 OLDPWD=/home/user/libgit2
+asdgagd
